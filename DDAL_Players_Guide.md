@@ -197,9 +197,9 @@ You earn 10 downtime days between each session of play. Your character can parti
 
 The following resources are available to you to keep up with all the latest Adventurers League news and discussion!
 
-- [**Official D&D Adventurers League website**](https://dnd.wizards.com/ddal_general)**.** Your source for general information, as well as all of the campaign documents for play. The FAQ is also found here, which gives more in-depth answers for specific questions.
-- [**Official D&D Adventurers League Discord**](https://discord.gg/dnd)**.** Join in the lively discussion with channels devoted to all sorts of topics! All the latest news gets pushed here too.
-- [**Official D&D Adventurers League Blog**](https://yawningportal.dnd.wizards.com/)**.** The Yawning Portal is the home for our blog! Learn all about new adventure releases, dive into the whys and hows, and see what the staff is talking about.
+- **[Official D&D Adventurers League website](https://dnd.wizards.com/ddal_general).** Your source for general information, as well as all of the campaign documents for play. The FAQ is also found here, which gives more in-depth answers for specific questions.
+- **[Official D&D Adventurers League Discord](https://discord.gg/dnd).** Join in the lively discussion with channels devoted to all sorts of topics! All the latest news gets pushed here too.
+- **[Official D&D Adventurers League Blog](https://yawningportal.dnd.wizards.com/).** The Yawning Portal is the home for our blog! Learn all about new adventure releases, dive into the whys and hows, and see what the staff is talking about.
 
 DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player's Handbook, Monster Manual, Dungeon Master's Guide, D&D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
 
