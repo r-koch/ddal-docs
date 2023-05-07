@@ -2,47 +2,50 @@
 
 This is an attempt to bring some law to the chaos that are the [D&D Adventurers League](https://dnd.wizards.com/adventurers-league) documents.
 
-The goal is having:
+The goal:
 
-- One place for all relevant information
+- One (!) place for all information
 - Consistent labeling
 - Proper version control
 - Better change history
 - Ability for the community to contribute
 
+To facilitate this, the documents are transcribed to markdown files and added to this repository. The Lists below link to the transcribed markdown version of the document (or the most recent version of the PDF of the document if said document hasen't been transcribed yet).
+
+Everybody is welcome to participate, improve, and correct this! No, really, I need help :)
+
 ## Core Documents
 
-- [D&D Adventurers League Player's Guide](DDAL_Players_Guide.md)
-- [D&D Adventurers League Dungeon Master's Guide (Forgotten Realms)](DDAL_Dungeon_Masters_Guide.md)
-- [D&D Adventurers League Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
-- D&D Adventurers League Forgotten Realms Adventure Index (https://media.wizards.com/2021/dnd/downloads/DDAL_Forgotten_Realms_Adventure_Index_v11.0.pdf)
-- Content Catalogue (Discord)
-- Service Awards (Discord)
-- Organizer's Guide (https://media.wizards.com/2021/dnd/downloads/DDAL_Organizers_Guide_v11.0.pdf)
-- Supported event epics for the quarter (Discord)
+- [Player's Guide](DDAL_Players_Guide.md)
+- [Dungeon Master's Guide](DDAL_Dungeon_Masters_Guide.md)
+- [Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
+- [Forgotten Realms Adventure Index (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Forgotten_Realms_Adventure_Index_v11.0.pdf)
+- [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
+- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 
 ## Adaptaion Guides
 
-- Critical Role
-- Dragons of Stormwreck Isle
-- Dragonlance
-- Forgotten Realms
-- Journeys Through the Radiant Citadel
-- Keys from the Golden Vault +
-- Spelljammer
-- The Wild Beyond the Witchlight +
+- [Critical Role Pack (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332170452992/DD_Adventurers_League_Critical_Role_Pack_v1.0.pdf)
+- [Dragons of Stormwreck Isle (Blog)](https://yawningportal.dnd.wizards.com/blog/dragons-of-stormwreck-isle-adaptation-guidance/)
+- [Dragonlance - Shadow of the Dragon Queen (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1083919162553946132/Shadow_of_the_Dragon_Queen_Dragonlance_Adaptation_Guide.pdf)
+- [Forgotten Realms (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333843968010/DD_Adventurers_League_Adaptation_Guide_2014-21_v1.0.pdf)
+- [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332669567106/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
+- [Keys from the Golden Vault (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1102710535520268389/Keys_from_the_Golden_Vault_Adaption_Guide.pdf)
+- [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333453901923/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
+- [The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Pack-The_Wild_Beyond_the_Witchlight.pdf)
 
 ## Dungeoncraft Documents
 
-- D&D Adventurers League Dungeoncraft Design Guide: Eberron
-- D&D Adventurers League Dungeoncraft Design Guide: Ravenloft
-- D&D Adventurers League Dungeoncraft Design Guide: Spelljammer
-- D&D Adventurers League Dungeoncraft Design Guide: The Wild Beyond the Witchlight (https://media.wizards.com/2021/dnd/downloads/Dungeoncraft_Wild_Beyond_the_Witchlight_v1.2.pdf)
+- [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
+- [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
+- [Design Guide: Spelljammer (PDF)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack?src=newest_in_al?affiliate_id=925821)
+- [Design Guide: The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/Dungeoncraft_Wild_Beyond_the_Witchlight_v1.2.pdf)
 
 ## Supporting Resources and Documents
 
-- D&D Adventurers League Logsheet
-- D&D Adventurers League Pack: The Wild Beyond the Witchlight
-- WBW-PR Lost Things Prelude Adventure
-- Tomb of Annihilation surrogates
-- Tier 2 pre-generated characters
+- [Logsheet (PDF)](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf)
+- [Organizer's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Organizers_Guide_v11.0.pdf)
+  - [Current supported event epics (Discord Channel)](https://discord.com/channels/516367331358801950/1050208806006702081)
+- [Tomb of Annihilation surrogates (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368707199087/925821-ToA_Surrogate_Pack.zip)
+- [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
+- [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
