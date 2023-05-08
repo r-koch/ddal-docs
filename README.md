@@ -23,7 +23,7 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
 - [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 
-## Adaptaion Guides
+## Adaptation Guides
 
 - [Critical Role Pack (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332170452992/DD_Adventurers_League_Critical_Role_Pack_v1.0.pdf)
 - [Dragons of Stormwreck Isle (Blog)](https://yawningportal.dnd.wizards.com/blog/dragons-of-stormwreck-isle-adaptation-guidance/)
