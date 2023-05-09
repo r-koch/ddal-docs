@@ -28,6 +28,7 @@ The plan:
 - [Player's Guide](DDAL_Players_Guide.md)
 - [Dungeon Master's Guide](DDAL_Dungeon_Masters_Guide.md)
 - [Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
+  - [AL Admin Answers](DDAL_Admin_Answers.md) from the [al-rules-compendium channel](https://discord.com/channels/516367331358801950/1049795363999055883) of the [Dungeons & Dragons discord server](https://discord.gg/dnd)
 - [Service Awards](DDAL_Service_Awards.md)
 
 ## Adaptation Guides
