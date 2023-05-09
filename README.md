@@ -2,6 +2,8 @@
 
 This is an attempt to bring some law to the chaos that are the [D&D Adventurers League](https://dnd.wizards.com/adventurers-league) documents.
 
+Everybody is welcome to participate, improve, and correct this! No, really, I cannot do this alone :)
+
 The goal:
 
 - One (!) place for all information
@@ -10,9 +12,16 @@ The goal:
 - Better change history
 - Ability for the community to contribute
 
-To facilitate this, the documents are transcribed to markdown files and added to this repository. The Lists below link to the transcribed markdown version of the document (or the most recent version of the PDF of the document if said document hasen't been transcribed yet).
+The plan:
 
-Everybody is welcome to participate, improve, and correct this! No, really, I need help :)
+- Transcribe the documents that change regularly from PDF to markdown
+- Link the documents that don't change
+- Host documents that aren't hosted anymore but are still AL-legal
+- Releases!
+  - Use [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning) (\<major>.\<minor>.\<patch>)
+  - New \<major>.\<minor>.0 release every time a new AL document is published
+  - Use the same major and minor version as the most recent AL document
+  - Use patch version for other changes (corrections, additions, and removals)
 
 ## Core Documents
 
