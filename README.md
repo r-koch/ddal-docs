@@ -19,6 +19,7 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Player's Guide](DDAL_Players_Guide.md)
 - [Dungeon Master's Guide](DDAL_Dungeon_Masters_Guide.md)
 - [Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
+- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 
 ## Adaptation Guides
 
@@ -45,7 +46,6 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Logsheet (PDF)](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf)
 - [Organizer's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Organizers_Guide_v11.0.pdf)
   - [Current supported event epics (Discord Channel)](https://discord.com/channels/516367331358801950/1050208806006702081)
-- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 - [Tomb of Annihilation surrogates (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368707199087/925821-ToA_Surrogate_Pack.zip)
 - [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
 - [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
