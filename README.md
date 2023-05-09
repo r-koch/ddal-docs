@@ -19,9 +19,6 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Player's Guide](DDAL_Players_Guide.md)
 - [Dungeon Master's Guide](DDAL_Dungeon_Masters_Guide.md)
 - [Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
-- [Forgotten Realms Adventure Index (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Forgotten_Realms_Adventure_Index_v11.0.pdf)
-- [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
-- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 
 ## Adaptation Guides
 
@@ -29,6 +26,7 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Dragons of Stormwreck Isle (Blog)](https://yawningportal.dnd.wizards.com/blog/dragons-of-stormwreck-isle-adaptation-guidance/)
 - [Dragonlance - Shadow of the Dragon Queen (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1083919162553946132/Shadow_of_the_Dragon_Queen_Dragonlance_Adaptation_Guide.pdf)
 - [Forgotten Realms (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333843968010/DD_Adventurers_League_Adaptation_Guide_2014-21_v1.0.pdf)
+  - [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
 - [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332669567106/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
 - [Keys from the Golden Vault (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1102710535520268389/Keys_from_the_Golden_Vault_Adaption_Guide.pdf)
 - [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333453901923/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
@@ -43,9 +41,11 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 
 ## Supporting Resources and Documents
 
+- [Forgotten Realms Adventure Index (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Forgotten_Realms_Adventure_Index_v11.0.pdf)
 - [Logsheet (PDF)](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf)
 - [Organizer's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Organizers_Guide_v11.0.pdf)
   - [Current supported event epics (Discord Channel)](https://discord.com/channels/516367331358801950/1050208806006702081)
+- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
 - [Tomb of Annihilation surrogates (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368707199087/925821-ToA_Surrogate_Pack.zip)
 - [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
 - [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
