@@ -19,7 +19,7 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Player's Guide](DDAL_Players_Guide.md)
 - [Dungeon Master's Guide](DDAL_Dungeon_Masters_Guide.md)
 - [Forgotten Realms FAQ](DDAL_Forgotten_Realms_FAQ.md)
-- [Service Awards (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1096546510788894810/DD_Adventurers_League_Service_Awards_Season_12B_v1.1.pdf)
+- [Service Awards](DDAL_Service_Awards.md)
 
 ## Adaptation Guides
 
@@ -28,6 +28,8 @@ Everybody is welcome to participate, improve, and correct this! No, really, I ne
 - [Dragonlance - Shadow of the Dragon Queen (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1083919162553946132/Shadow_of_the_Dragon_Queen_Dragonlance_Adaptation_Guide.pdf)
 - [Forgotten Realms (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333843968010/DD_Adventurers_League_Adaptation_Guide_2014-21_v1.0.pdf)
   - [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
+  - [Curse of Strahd - Dungeon Master's Guide (PDF)](unhosted_docs/CoS%20-%20Dungeon%20Master's%20Guide.pdf)
+  - [State of Mulmaster (PDF)](/unhosted_docs/State-of-Mulmaster-with-Logsheet.pdf)
 - [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332669567106/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
 - [Keys from the Golden Vault (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1102710535520268389/Keys_from_the_Golden_Vault_Adaption_Guide.pdf)
 - [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333453901923/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
