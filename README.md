@@ -60,3 +60,5 @@ The plan:
 - [Tomb of Annihilation surrogates (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368707199087/925821-ToA_Surrogate_Pack.zip)
 - [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
 - [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
+
+D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
