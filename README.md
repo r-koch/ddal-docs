@@ -47,6 +47,7 @@ The plan:
 
 ## Dungeoncraft Documents
 
+- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1105938028586860565/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.0.pdf)
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
 - [Design Guide: Spelljammer (PDF)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack?src=newest_in_al?affiliate_id=925821)
