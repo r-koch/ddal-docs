@@ -70,4 +70,6 @@ Some now outdated documents contain information that was left out of the content
 - [Faction Guide (PDF)](unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
 - [Tomb of Annihilation Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
 
+---
+
 D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
