@@ -40,7 +40,6 @@ Arcane Manufactory is no longer available. Magic items previously created using 
 
 We are moving the FAQ information from the website's Oracle of War DM and Player's Guides (https://dnd.wizards.com/adventurers-league). Continue to use those FAQs until then (replacing Volo's and Tome of Foes with *Mordenkainen Presents: Monsters of the Multiverse*).
 
-
 ### Can a **magic item created by a player character** be traded?
 
 No. PC-created magic items are not tradable. 
@@ -163,15 +162,15 @@ none currently
 
 ## Candlekeep Mysteries Questions
 
-### At the end of "The Scrivener's Tale" in Candlekeep Mysteries: the last sentence of the "Treasure" section lists possible rewards as "If the characters want to sell the collection, you can decide what it might be worth, but the characters should earn at least 50,000 gp for the lot (see also "A Little Light Reading" below). Such a reward might take the form of one or two very rare magic items, a small keep, a large parcel of land, or a seaworthy galley with a full crew." What is the guidance on what we can reward? 
+### At the end of "The Scrivener's Tale" in Candlekeep Mysteries: the last sentence of the "Treasure" section lists possible rewards as <details><summary>show spoiler</summary>If the characters want to sell the collection, you can decide what it might be worth, but the characters should earn at least 50,000 gp for the lot (see also "A Little Light Reading" below). Such a reward might take the form of one or two very rare magic items, a small keep, a large parcel of land, or a seaworthy galley with a full crew.</details> What is the guidance on what we can reward? 
  
-Use the reward specified in the adventure, 50,000 gp only to the party. The other items, including the very rare items mentioned in Amy's previous guidance, are not rewardable.
+Use the reward specified in the adventure, <details><summary>show spoiler</summary>50,000 gp only to the party. The other items, including the very rare items mentioned in Amy's previous guidance, are not rewardable.</details>
 
-### Question about CM-10 "Kandlekeep Dekonstruktion" - in the content catalog, it states: "Stonky's Control Ring. Stonky's ring ceases to function at the end of this adventure and the skitterwidgets found in this adventure can not be claimed by the characters." Does this mean that the players should not be awarded the ring of telekinesis? Or does that mean that they get the ring, but not the extra function to control the constructs?
+### Question about CM-10 "Kandlekeep Dekonstruktion" - in the content catalog, it states: <details><summary>show spoiler</summary>Stonky's Control Ring. Stonky's ring ceases to function at the end of this adventure and the skitterwidgets found in this adventure can not be claimed by the characters.</details> Does this mean that the players should not be awarded the ring of telekinesis? Or does that mean that they get the ring, but not the extra function to control the constructs?
  
 Characters receive the ring, but the skitterwidget control portion of it no longer functions.
 
-### Question about some guidance in Zikran's Zephyrean Tome: Conclusion. Gazre-Azam do not offer to cast wish, but rather gives the party a censor of controlling air elementals that only summons him. He does not enchant the book, so the characters can return it to Candlekeep. 
+### Question about some guidance in Zikran's Zephyrean Tome: Conclusion. <details><summary>show spoiler</summary>Gazre-Azam do not offer to cast wish, but rather gives the party a censor of controlling air elementals that only summons him. He does not enchant the book, so the characters can return it to Candlekeep.</details>
 
 #### Does the censor summon Gazre-Azam with the djinni statblock or the air elemental statblock? 
 
@@ -197,11 +196,11 @@ Not much guidance to give out on that. It's a general rule question; your DM has
 
 ## Eberron Questions
  
-### In the Player Guide 1.3 for Oracle of War is stated: Once per adventure that you gain a level, you can scribe one spell into your spellbook […] Does a **level gained** through a Salvage Mission count for this rule?
+### In the Player Guide 1.3 for Oracle of War is stated: <details><summary>show spoiler</summary>Once per adventure that you gain a level, you can scribe one spell into your spellbook […]</details> Does a **level gained** through a Salvage Mission count for this rule?
 
 Yes, it does. 
  
-### So for the OoW campaign there's a ERftLW errata: https://media.wizards.com/2020/dnd/downloads/ERftLW-Errata.pdf which says " Replicate Magic Item (p. 63). The following sentence has been added to the end of the first paragraph: "Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls." Additionally, the third paragraph has been cut. " My question is about the phrase "**in the game**". I can guess what you're going to say, but the errata says what it says. So, what constitutes being "in the game"?
+### So for the OoW campaign there's a ERftLW errata: https://media.wizards.com/2020/dnd/downloads/ERftLW-Errata.pdf which says " Replicate Magic Item (p. 63). The following sentence has been added to the end of the first paragraph: <details><summary>show spoiler</summary>Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls." Additionally, the third paragraph has been cut.</details> My question is about the phrase "**in the game**". I can guess what you're going to say, but the errata says what it says. So, what constitutes being "in the game"?
 
 For Oracle of War, "in the game" would mean "in campaign-legal sources."
  
@@ -209,7 +208,7 @@ For Oracle of War, "in the game" would mean "in campaign-legal sources."
 
 The designers will allow druid-friendly armor materials. 
  
-### In EB-07 and after the module can the soar sled still dash? The ability grants a flight speed to the disk itself, not the character. So can a disk dash or be dashed by a character?
+### In EB-07 and after the module can the <details><summary>show spoiler</summary>soar sled</details> still dash? The ability grants a flight speed to the disk itself, not the character. So can a disk dash or be dashed by a character?
 
 Usually a vehicle cannot dash but because the soarsled is based on a flying broom and those can dash (https://twitter.com/JeremyECrawford/status/953363603033214976), the soarsled can dash.
 
@@ -233,7 +232,7 @@ It is not, though players who complete it during a Virtual Play Weekend will gai
 
 ## Red Wizard Questions
 
-### In regard to organizers receiving event support for the Red War epic: The tier 4 epic awards two boons if the simulacrum is destroyed. The old ALCC used to reward the players' a choice of one boon to each character who survived the adventure, but did not destroy the simulacrum. Is that reward still available?
+### In regard to organizers receiving event support for the Red War epic: <details><summary>show spoiler</summary>The tier 4 epic awards two boons if the simulacrum is destroyed. The old ALCC used to reward the players' a choice of one boon to each character who survived the adventure, but did not destroy the simulacrum.</details> Is that reward still available?
 
 Yes.
 
