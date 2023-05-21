@@ -1,6 +1,6 @@
 # D&D Adventurers League Documents
 
-This is an attempt to bring some law to the chaos that are the [D&D Adventurers League](https://dnd.wizards.com/adventurers-league) documents.
+This is an attempt to bring some law to the chaos that are the [D&D Adventurers League (AL)](https://dnd.wizards.com/adventurers-league) documents.
 
 Everybody is welcome to participate, improve, and correct this! No really, I can't do this alone 😅. Check out the [mission statement](#mission-statement) below.
 
@@ -15,7 +15,7 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 ## Eberron: Oracle of War
 
 - [Player's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/OracleofWar_PGv1_5.pdf)
-- [Dungeon Master's Guide](https://media.wizards.com/2021/dnd/downloads/OracleofWar_DMGv1_5.pdf)
+- [Dungeon Master's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/OracleofWar_DMGv1_5.pdf)
 
 ## Ravenloft: Hist Hunters
 
@@ -39,6 +39,7 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 
 ## Dungeoncraft Documents
 
+- [Adventurers League Community Logo (DMsGuild)](https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo)
 - [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1105938028586860565/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.0.pdf)
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
@@ -56,13 +57,25 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 - [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
 - [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
 
+## AL Admin Support Documents for Dungeon Masters
+
+**Spoilers for Players!** These documents by (former) Adventurers League Admins provide additional information for Dungeon Masters.
+
+- [City Guide: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/202483/City-Guide-Mulmaster)
+- [Conversations with Faction Contacts in the Moonsea (DMsGuild)](https://www.dmsguild.com/product/171835/Conversations-With-Faction-Contacts-in-the-Moonsea-vol-1)
+- [Season 1 Narrative: Phlan (DMsGuild)](https://www.dmsguild.com/product/171065/Season-1-Narrative-Phlan)
+- [Season 2 Narrative: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/171064/Season-2-Narrative-Mulmaster)
+- [Season 3 Narrative: Hillsfar (DMsGuild)](https://www.dmsguild.com/product/171062/Season-3-Narrative-Hillsfar)
+- [Season 5 Narrative: Parnast, Stagwick, & Beregost (DMsGuild)](https://www.dmsguild.com/product/209064/Season-5-Narrative-Parnast-Stagwick--Beregost)
+- [Season 7 Narrative: Port Nyanzaru (DMsGuild)](https://www.dmsguild.com/product/264264/Season-7-Narrative-Port-Nyanzaru)
+
 ## Outdated Documents
 
 Some now outdated documents contain information that was left out of the content catalogue and the adaptation guide.
 
 - [Curse of Strahd - Dungeon Master's Guide (PDF)](unhosted_docs/CoS%20-%20Dungeon%20Master's%20Guide.pdf)
 - [Faction Guide (PDF)](unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
-- [Tomb of Annihilation Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
+- [Tomb of Annihilation Dungeon Master Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
 
 ## Mission Statement
 
@@ -76,8 +89,8 @@ The goal:
 
 The plan:
 
-- Transcribe the documents that change regularly from PDF to [markdown](https://www.markdownguide.org/basic-syntax)
-- Link the documents that don't change
+- Transcribe documents that are updated regularly from PDF to [markdown](https://www.markdownguide.org/basic-syntax)
+- Link to documents that aren't updated
 - Host documents that aren't hosted anymore but are still AL-legal
 - Releases!
   - Use [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning) (\<major>.\<minor>.\<patch>)
@@ -87,4 +100,4 @@ The plan:
 
 ---
 
-D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC.
