@@ -88,6 +88,8 @@ Some now outdated documents contain information that was left out of the content
   - [Tales from the Yawning Portal Hooks](/unhosted_docs/)
 - Season 7
   - [Tomb of Annihilation Dungeon Master Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
+- Season 8
+  - [Volo's Waterdeep Enchiridion (DMsGuild)](https://www.dmsguild.com/product/254063/Volos-Waterdeep-Enchiridion-5e)
 
 ## Mission Statement
 
