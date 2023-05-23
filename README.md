@@ -44,6 +44,10 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
 - [Design Guide: Spelljammer (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
+
+### Outdated Dungeoncraft Documents
+
+- [Design Guide: Plague of Ancients (PDF)](/unhosted_docs/Dungeoncraft_Adventures_-_Plague_of_Ancients_v2.pdf)
 - [Design Guide: The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/Dungeoncraft_Wild_Beyond_the_Witchlight_v1.2.pdf)
 
 ## Supporting Resources and Documents
@@ -69,9 +73,9 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 - [Season 5 Narrative: Parnast, Stagwick, & Beregost (DMsGuild)](https://www.dmsguild.com/product/209064/Season-5-Narrative-Parnast-Stagwick--Beregost)
 - [Season 7 Narrative: Port Nyanzaru (DMsGuild)](https://www.dmsguild.com/product/264264/Season-7-Narrative-Port-Nyanzaru)
 
-## Outdated Documents
+## Old Support Documents
 
-Some now outdated documents contain information that was left out of the content catalogue and the adaptation guide.
+Some documents containing information that was left out of the content catalogue and the adaptation guide.
 
 - [Faction Guide (PDF)](/unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
 - Season 1
