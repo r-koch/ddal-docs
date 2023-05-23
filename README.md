@@ -73,9 +73,21 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 
 Some now outdated documents contain information that was left out of the content catalogue and the adaptation guide.
 
-- [Curse of Strahd - Dungeon Master's Guide (PDF)](unhosted_docs/CoS%20-%20Dungeon%20Master's%20Guide.pdf)
-- [Faction Guide (PDF)](unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
-- [Tomb of Annihilation Dungeon Master Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
+- [Faction Guide (PDF)](/unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
+- Season 1
+  - [State of Phlan](/unhosted_docs/DDAL_State_of_Phlan.md)
+- Season 2
+  - [State of Mulmaster (PDF)](/unhosted_docs/State-of-Mulmaster-with-Logsheet.pdf)
+- Season 3
+  - [State of Hillsfar (PDF)](/unhosted_docs/Hillsfar-Regional-Character-Options.pdf)
+- Season 4
+  - [Curse of Strahd - Dungeon Master's Guide (PDF)](/unhosted_docs/CoS%20-%20Dungeon%20Master's%20Guide.pdf)
+  - [DDAL04-02 The Beast Expansion (DMsGuild)](https://www.dmsguild.com/product/180498/DDAL0402-The-Beast-5e-Expansion-OPTIONAL-CONTENT)
+  - [Expanded Dark Gifts Table (DMsGuild)](https://www.dmsguild.com/product/186573/DDAL04-Expanded-Dark-Gifts-Table-OPTIONAL-CONTENT)
+- Season 6
+  - [Tales from the Yawning Portal Hooks](/unhosted_docs/)
+- Season 7
+  - [Tomb of Annihilation Dungeon Master Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
 
 ## Mission Statement
 
