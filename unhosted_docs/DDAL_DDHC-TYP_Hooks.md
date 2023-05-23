@@ -1,6 +1,15 @@
 # Tales from the Yawning Portal Hooks
 
 The dungeon crawls presented in Tales from the Yawning Portal are by and large taken from older content and updated to the 5th edition of the rules. There are hints of Greyhawk and other campaign worlds contained therein, but the Adventurers League content takes place in the Forgotten Realms. To that end, the admin team assembled a series of "Hooks" articles to get players excited about the adventures that lay before them.
+hem.
+
+[Hooks: Sunless Citadel](https://web.archive.org/web/20201111181508/http://dndadventurersleague.org/hooks-the-sunless-citadel/)  
+[Hooks: Forge of Fury](https://web.archive.org/web/20201111210405/http://dndadventurersleague.org/hooks-the-forge-of-fury/)  
+[Hooks: Hidden Shrine of Tamoachan](https://web.archive.org/web/20201112003109/http://dndadventurersleague.org/hooks-hidden-shrine-of-tamoachan/)  
+[Hooks: White Plume Mountain](https://web.archive.org/web/20201112022053/http://dndadventurersleague.org/hooks-white-plume-mountain/)  
+[Hooks: Dead in Thay](https://web.archive.org/web/20201112031937/http://dndadventurersleague.org/hooks-dead-in-thay/)  
+[Hooks: Against the Giants](https://web.archive.org/web/20201111180808/http://dndadventurersleague.org/hooks-against-the-giants/)  
+[Hooks: Tomb of Horrors](https://web.archive.org/web/20201111200930/http://dndadventurersleague.org/hooks-tomb-of-horrors/)
 
 These hooks are not required, but you may find them very helpful – they even include some handy DM guidance!
 
@@ -277,6 +286,255 @@ Thinking outside the box:
 
 ## Dead in Thay
 
+This world is full of dangers and treasures, stories that are just waiting to be told and legends that want to be created. There are days where the Yawning Portal is home to all of these, and then there are days like this one.
+
+Today, a bald and robed man entered the tavern just prior to lunch time. His face was a mass of scars and his mouth was little more than an angry slash across his face, but his coin was good enough. He threw back pint after pint, giving a toothless grin whenever someone asked him if he wanted food. He wasn't rude, just off-putting in the same way that a shaved cat can be. He would occasionally commit strange, arcane sigils to some scraps of parchment that he kept in his boot cuff as the hours ticked by. Other patrons came and went, and this strange fellow barely seemed to take notice of them at all.
+
+As the evening rolled on and the tavern filled up with its usual complement of rowdy do-gooders, occasional ne'er-do-wells, drunken louts and thrill-seeking young royals the tiefling finally gathered his wits about him. He clambered up on top of his table and produced a small hand-harp from some hidden vest pocket, coughed for attention, and sang an upbeat, energized tune in a voice that could only be described as angelic – if angels could be heard speaking as they rolled head-over-feet down a flight of stairs:
+
+"Fire in the Bloodgate!  
+Fire in the Thaymount site  
+Fire in the Bloodgate!  
+Fire in the gates of Hell!
+
+Don't you want to know why we keep starting fires?  
+It's his desire, It's his desire, It's his desire
+
+Don't you want to know why we keep starting fires?  
+It's his desire, It's his desire, It's his desire
+
+Danger! Danger! Lich knowledge!  
+When they touch, When they assist  
+Danger! Danger! Lich knowledge!  
+When they touch, when they assist  
+When we touch
+
+Danger! Danger! Lich knowledge!  
+When they touch, When they assist  
+Danger! Danger! Lich knowledge!  
+When they touch, when they assist  
+When they touch, when they assist
+
+Don't you want to know why we keep starting fires?  
+It's his desire, It's his desire
+
+Don't you want to know why we keep starting fires?  
+It's his desire, It's his desire
+
+Danger! Danger! Lich knowledge!  
+When we touch, When they assist  
+Danger! Danger! Lich knowledge!  
+When we touch, when they assist  
+When we touch
+
+Danger! Danger! Lich knowledge!  
+When we touch, When they assist  
+Danger! Danger! Lich knowledge!  
+When we touch, when they assist  
+When we touch, when they assist
+
+No more
+
+Fire in the Bloodgate!  
+Fire in the Bloodgate!  
+Fire in the Thaymount site!  
+Fire in the Bloodgate!  
+Fire in the Bloodgate!  
+Fire in the gates of Hell!"
+
+Upon completion of the tune, the bard averted his gaze and stared once more at the floor. He slowly clambered down from the tabletop and shuffled towards the bar. I didn't quite know what to make of him, and judging by the stunned silence in the room neither did anyone else. After a few moments some scattered applause went up but by and large the patrons chuckled off the event and returned to their conversations.
+
+The bard sidled up next to my stool and slid up to the bar. With little more than a grunt he ordered a mug from Durnan, and as he slurped it down I realized two things: first, that his lips were simply an angry slash made of scars; and second, that he was speaking to me between gurgled swallows.
+
+"You wanna know how I got this face?" he spat it out. I was fairly certain that it didn't matter how I responded because he was just going to tell me anyhow.
+
+"Thayans. Thayan rebels, if you can believe that; there are Red Wizards that don't think the other Red Wizards are Red Wizardly enough. I made the mistake of being in their presence out in Daggerdale – you know, on the River Tesh and west of the Moonsea, and they saw fit to use me for their own purposes. Did you know that some of them hate with such passion that it becomes like music? Like dance.
+
+They have a keep – Bloodgate Keep – and plans to use their nexus of portals to assault Thay itself. Imagine that: Red Wizards seeking to unleash magical hell on other Red Wizards. This won't end will, will it? But the nexus of portals… they said it was the lich's will, that it was divine and blessed, that it was the smartest choice. They said a lot of things, like how this vault of theirs contains phylacteries – a dozen of 'em, maybe more. Even holds the most unholy of them all, and I think you know that I mean Szass Tam himself, dread lord of the Thaymount.
+
+As you might imagine I didn't wish to be there, so I made good my escape when they stopped paying attention to me. At least, I thought it was escape. Turns out that it was planned. A cruel trick, but from Red Wizards it is no surprise. Their leader, Syranna, made it clear that the verbal abuses I suffered for my ‘sins upon music itself' would pale in comparison to what the lich himself has planned for Faerun.
+
+I don't know. I just want to play my harp.
+
+Spot me a drink?"
+
+I plunked down two gold pieces and nodded at Durnan. Daggerdale was a good journey from here, but the possibility of Thayan rebels – and a treasure trove of phylacteries! – was just too juicy to pass up.
+
+I left immediately, but not before accepting that a journey to Daggerdale and potentially into Thay itself might well be the last journey I would ever undertake. Ah well, what good can I do from a bar stool?
+
+### Spoilers below!
+
+For the DM:
+
+- Unlike the rest of *Tales from the Yawning Portal*, the *Dead in Thay* adventure was part of the 5th Edition playtest and was originally designed to take place near Daggerford (initially, with a very early move to Thay), so no significant modifications from the early text are needed
+- this adventure runs best with four or five characters at level 9, but AL play allows for tables of 3-7 players of levels 5-10 (tier 2)
+- the Doomvault map is split into 9 sectors, each with a different theme; this provides an easy "jumping off" point if you only have two or three hours of potential playtime with your group each week
+- as time is of the essence while inside the Doomvault, be sure to remind the characters of the risks they are taking when they rest or leave the dungeon ("Resting" and "Alert Level", p. 113)
+- be sure to carefully review the restrictions on magic use while inside the Doomvault ("Dimensional Barriers", p. 110)
+- Red Wizards can speak, see, and sense through any dread warriors that they have created – this can help create some great roleplay moments and scenes with the characters
+- the fiendish skulls (p. 152) can bestow curses; these curses last until the character receives a *remove curse* spell
+- If a character is raised as soul-bound undead, they are immediately retired from Adventurers League play if they leave the Doomvault. Only by destroying Kazit Gul (and thus, the Doomvault) or receiving a *wish* spell can this effect be ended; not even *true resurrection* can wrest the adventurer's soul from Szass Tam's terrible grasp
+- **'reduced threat creatures'.** be sure to read this section on p.113 carefully!
+- **Random encounters.** This adventure has the potential for a lot of random encounters. It would be helpful to pregenerate a dozen or so of these encounters so that when they happen, play is not interrupted and you can quickly deploy the encounter for the characters.
+- **Lycanthropy.** Refer to the standard Adventurers League rules regarding lycanthropy if a character becomes infected. In short: it it's not removed at the end of the adventure, or if the character chooses to play a different adventure before curing it, that character is immediately retired from AL play until the lycanthropy is removed.
+- **Magic items.**
+  - Despite the suggestion on p. 115, magic items cannot be added to creatures, encounters, or rooms unless the adventure specifically states that such an object exists here. Dread Warriors carry javelins or melee weapons (simple or martial) as their ‘+1 weapon' unless specifically noted otherwise.
+  - This adventure can potentially give a large number of *spell scrolls* to the characters – it's a great chance to stock up on utility spells like *detect magic* and *comprehend languages*, which are useful at all levels of play
+  - Lahnis wears a *ring of protection* and is very reluctant to get rid of it. If the characters have earned his trust, he might be convinced to turn it over – this is DM's prerogative, though.
+  - *Ooze prods* are not considered to be permanent magical items for the purposes of D&D Adventurers League play
+- **Cursed items.** Cursed items are a part of D&D history and often serve a purpose in the story. However, some players might be disappointed and view this as a ‘gotcha' moment – tread carefully. Unless the item's description specifically states otherwise, the characters can cast identify on it (or use a downtime spellcasting activity!) and learn the item's properties, including the curse. Once a cursed item is taken by a character and recorded on their logsheet, a *remove curse* spell only removes the attunement ("de-attunes" from the character) and does not undo the curse.
+
+Thinking outside the box:
+
+- with tables of 6-7 players, consider some ways to increase the scope of the adventure and keep everyone entertained
+  - increase the size of the maps to 10′ squares instead of the normal 5′ square
+  - add 1-2 additional monsters to each combat
+- the Doomvault is a powerful location in the Thayan political structure. What happens if the characters perform certain acts here? How will this affect your other Adventurers League games (such as the motivations of the Zulkir that is visiting Mulmaster)?
+- some of the other creatures in the Doomvault seek to accomplish similar goals and tasks as the characters – perhaps this is a chance to turn enemies into erstwhile allies. Roleplay, as far as they eye can see!
+- prior to beginning play, consider asking your players if their chosen characters have peacefully interacted with Red Wizards in the past (Hoard of the Dragon Queen, Rise of Tiamat, and several season 2 adventures provide opportunities for this – as well as others!)
+- if a character has chosen to be raised as soul-bound undead, are they aware of the ramifications of leaving the Doomvault? Make sure that they know that playing an adventure other than Dead in Thay between sessions counts as ‘leaving the Doomvault'!
+- other thoughts? hit us on [Facebook](https://www.facebook.com/groups/DMsLeague/)!
+
+
 ## Against the Giants
 
+I limped away from the cloud of dust and debris that had formerly been a Thayan stronghold, and for what felt like the millionth time I assured myself that I would never again interfere in the affairs of the dread Red Wizards. Their Doomvault was gone and yet somehow I knew that no amount of therapy (short of, perhaps, a potent *remove curse* spell from a friendly wizard) would ever erase those memories from my mind.
+
+Little did I know that that my next adventure was much closer than I expected.
+
+Not even a full tenday after my horrific ordeal I would hear opportunity knocking upon my door once more. I had slumped into a somewhat-soggy and oversized chair in the Laughing Goblin in Phlan when I overheard a group of Zhentish mercenaries loudly calling out to each other with what they would do with "the giant's loot". I listened intently – we all did, really, as the Zhents were thoroughly inebriated and were making no indication of hiding this information – as they spoke in great (if slurred) detail about the steading of the Hill Giant Chief, and how they would be striking out along the road in the morning. The halls of the giants were nestled in the Galena Mountains, which were visible along the horizon far to the east.
+
+The group of hooligans and thugs eventually succumbed to the drink and passed out, and only a few moments passed before I felt the point of a dagger at my ribs and heard a gruff "Dove, you will come with me if you want to survive to see the dawn."
+
+I know Harper code when I hear it, and I know many of the operatives in that esteemed organization. Those Who Harp are not as secret as they pretend to be, but this musky half-orc was new to me. Whether he was indeed a Harper or simply pretending I could not be certain, but he introduced himself and ushered me outside where he hurriedly assembled gear on his horse while explaining that the giants had "significant plans" underway and that there was "a dangerous game to play". He grinned at first, but that became a scowl when he realized that I had not made any indication of taking to horseback myself.
+
+After a long moment of locked eyes and cocked eyebrows, he grunted something in the spidery language of the Art and that was the last thing I knew.
+
+---
+
+I awoke some time later, strapped to my horse and surrounded by the half-orc and his allies. He was accompanied by two dwarves and an elf; all but the elf wore Harper pins on their lapels, while the sharp-eared one wore no badge of association from what I could tell. My surroundings were familiar and not wholly unexpected: slightly mountainous with a sharp rise to the east and a phenomenal view of the Moonsea to the south and west. I knew where I was even before they told me.
+
+"The Galena Mountains, priest. You're coming with us." The half-orc untied my wrists and forced a smile. "My apologies for the rough handling, but this one" he pointed at the elf "told us of what happened in the Doomvault. The miracles you channeled."
+
+I didn't recognize the elf, but there were many prisoners freed during my trip. I couldn't easily dismiss it, and the half-orc continued:
+
+"Chief Nosnra of the hill giants isn't expecting us, and this is not an assault on their steading. Those Zhents would've doomed us all had they not consumed my, er, enhanced libations. The chief is an immense creature in power, stature, and will, but is by no means a wise leader. However, we've gathered insight on their activities that seems to indicate that something more is at play – something dark."
+
+One of the dwarves fished a shortsword out from under several layers of oiled leather. The blade's metal was highly polished and seemed to have veins of purple running through it, and as soon as the sunlight played across its face it began to bubble and smoke. In moments, it was gone and only the acrid tang of dissolved metal served to remind me that it ever existed at all.
+
+"Drowcraft. We have reason to believe that the dark elves are planning something big and that it involves the giants. The giants may not be aware of what is unfolding, but we need some place to start our investigation. If the hill giants cannot provide us the answers we need, we must be ready to press forward and proceed through the ranks of the ordning until we either learn the truth or silence the plot."
+
+We crested a hill and ahead stood a large and dilapidated house. Warehouse? Collection of sheds? I wasn't quite sure. I could smell it from this distance, though, and I knew that whatever we might find inside would be a challenge.
+
+But I knew that Silvanus watched over me, and deep down I knew that no matter how foul a plot the giants and drow might have, it could not compare to what the Thayans had wrought.
+
+---
+
+"I could not, at the time, have known how wrong I was – or how hard the next five days would be on me and my new allies. You already know part of the end, for here I stand before you in the hallowed common hall of the Yawning Portal, but the tale that I shall relate to you now is one of grand plans and dire plots and unknowable futures."
+
+I took a long pull from my mug, rubbed my scarred hands, winked at Durnan (unsurprisingly he did not seem to notice me as he was thoroughly fixated on wiping his mugs) and began to dazzle the young adventures of Waterdeep…
+
+### Spoilers below!
+
+For the DM:
+
+- this adventure runs best with four or five characters at level 11, but AL play allows for tables of 3-7 players of levels 11-16 (tier 3)
+- this adventure is actually three adventures: *The Steading of the Hill Giant Chief*, *The Glacial Rift of the Frost Giant Jarl*, and *The Hall of the Fire Giant King*. Depending upon how much your players wish to roleplay, each of these ‘sections' will probably be 5-10 hours of play.
+- you can place *Against the Giants* in various places throughout the Forgotten Realms, including near the Sword Mountains or the Spine of the World. We feel that placing this adventure near the Galena Mountains gives you the best opportunity to bind it into your ongoing games, including those of season 05, Storm King's Thunder; the PDF adventures for season 5 can easily incorporate this adventure!
+- when your characters complete *Against the Giants*, consider moving into [DDAL06-03 Crypt of the Death Giants](https://www.dmsguild.com/product/213029/DDAL0603-Crypt-of-the-Death-Giants-5e)!
+- magical fire effects have some pretty interesting effects in the Frost Giant Stronghold area – read that section closely
+- **Random encounters.** This adventure has the potential for a lot of random encounters. It would be helpful to pregenerate a dozen or so of these encounters so that when they happen, play is not interrupted and you can quickly deploy the encounter for the characters.
+- **Lycanthropy.** Refer to the standard Adventurers League rules regarding lycanthropy if a character becomes infected. In short: it it's not removed at the end of the adventure, or if the character chooses to play a different adventure before curing it, that character is immediately retired from AL play until the lycanthropy is removed.
+- **Magic items.**
+  - *Waythe* is a very powerful weapon and provides an excellent opportunity for a crafty DM to spur its wielder into action
+  - this adventure can not award legendary items from hoard rolls under any circumstances
+  - the hoard of the white dragons only contains magic items that are specifically called out in the text; all other items are mundane (though potentially quite valuable)
+  - the *flame tongue shortsword* (with the detect gems ability) is tradeable in AL games; although this ability deviates from the rules presented in the Dungeon Master's Guide, it is little more than a trinket power and does not disrupt organized play
+  - the *mirror of seeing* remains 100 pounds, even if the adventurers claim it – it functions as a *gem of seeing* (including that item's text from the Dungeon Master's Guide, and it can be traded as per normal), but is not considered to be worn equipment so it does not change its size
+  - Obmi's *gauntlets of ogre power* function exactly as printed in the Dungeon Master's Guide; the text in Against the Giants is merely a shorthand summary of the item's benefits
+  - the Torturer's *+2 greataxe* cannot generally be used by characters in Adventurers League play – per the adventure text, a wielder would need to be size "huge" and also have a Strength score of 25 or greater; it can, however, be traded to a certain merchant of questionable repute when he arrives at your favorite local conventions…
+  - any spell scrolls awarded may be selected from the spells present in the Player's Handbook (most often, the DM will pre-determine these spells)
+  - the *tome of clear thought* can only be opened by characters with an 18 Intelligence or better per the adventure text
+- **Cursed items.** Cursed items are a part of D&D history and often serve a purpose in the story. However, some players might be disappointed and view this as a ‘gotcha' moment – tread carefully. Unless the item's description specifically states otherwise, the characters can cast identify on it (or use a downtime spellcasting activity!) and learn the item's properties, including the curse. Once a cursed item is taken by a character and recorded on their logsheet, a *remove curse* spell only removes the attunement ("de-attunes" from the character) and does not undo the curse.
+
+Thinking outside the box:
+
+- giants are massive creatures – consider doubling the scale of the maps (so, a square would be 20 feet instead of 10 feet)
+- with tables of 6-7 players, consider some ways to increase the scope of the adventure and keep everyone entertained
+  - add 1-2 additional monsters to each combat
+  - increase the frequency of patrols
+  - consider granting creatures small boosts like the *pack tactics* ability, or granting a feat to a single creature in the encounter (though with great power comes great responsibility; tread carefully!)
+- at various points in these adventures, the odds may seem overwhelming. Consider encouraging your characters to make Insight or History checks and then grant them some hints or tips on how to negotiate challenges in a manner that does not entirely revolve around combat
+- use the random contents of a giant's bag to spur off-the-cuff story moments
+- although this adventure functions very well directly from the page, consider reading about the cultural differences between the various giant tribes – Storm King's Thunder is a great resource for this.
+- the drow are a significant threat that, in 1st Edition, were explored in a later series; for 5th Edition play, consider running the characters into DDAL06-03 Crypt of the Death Giants for additional details once they are done with Against the Giants
+- other thoughts? hit us on [Facebook](https://www.facebook.com/groups/DMsLeague/)!
+
+
 ## Tomb of Horrors
+
+"Durnan cannot possibly be human. He's owned the Yawning Portal for more years than most of us can remember, and he's always the only one behind the bar. Between the trying-too-hard bards and the brawling barbarians and the clerics that come in on a mission to save us from ourselves, I don't know how he does it."
+
+I winked and waved the two good fingers on my left hand at the old coot, and in a short moment Durnan slid two potent mugs of bitter down the bar. Placing my coin on the bar top, I continued:
+
+"He knows things. Seen things. When he talks, you would do well to shut your maw and listen carefully. He owes allegiance to noone, and yet everyone comes in here like it's neutral ground. Even the old paladins don't achieve that level of respect." I paused and took a long draw. "He told me early on that my eagerness would cost me dearly, that I would get in over my head because I wasn't careful – and sure enough, I did. Cost me a couple fingers and a handful of friends – see what I did there? – but I learned that sometimes there are wiser minds than my own. Stay awhile, and listen…"
+
+---
+
+I don't know if the group of adventurers listened like I wanted them to, but I know that when Durnan came over mid-story and admonished them about their behavior they sat right down and got quiet. I was trying to tell them of the story of Skull Hill out in the High Moor; how it only appears during the total eclipse of the first blood moon of the season, of how it is always deathly silent, of how it was filled with traps beyond reckoning, and of how I entered that unholy place once many years ago only to see my friends get consumed by the traps and unknowable dark magic contained inside.
+
+I fear, though, that they only heard "evil lich", "lair", "treasure", and "unexplored" as I spoke. Despite the warnings delivered by both myself and old Durnan, they seemed positively giddy as they paid their tab (and mine, as Durnan slyly added my drinks to theirs). As he had once told me, I knew that their eagerness would get them injured – or worse. Far worse.
+
+It would be several tendays before another adventurer would address me directly in the Yawning Portal. This time, a precocious young halfling woman that was hardly out of her formative years, her eyes as bright as gems and her experience sorely lacking, looked up at me hopefully:
+
+"Silvane? Syndra Silvane? We've – my friends and I, that is, all of us – heard that you needed some help." She produced a tattered broadsheet with my offer of rewards in both coin and exotic magical items in exchange for a trip to Chult.
+
+I smiled, cleared my throat, and began:
+
+"Child, please allow me tell you of the time that a group of adventurers went into the Tomb of Horrors. What they learned was purchased at the dearest of prices, a cost that was at once too great and yet insignificant in comparison to its value. If you make it to the end, then perhaps you will know what lies before you…"
+
+Was I in the wrong for refraining from telling her about my wasting sickness? About the traps that dread Acererak had laid within the Tomb? That annihilation would welcome them, and that only death could be found within? That would be for you, dear augur, to determine.
+
+---
+
+As the vision faded out and the legend lore spell came to its end, Durnan smiled sadly and confirmed that every single adventure that had stepped foot in the Tomb of Horrors had failed to return. Syndra indeed sought allies, but she was seeking allies that could essentially sneak into Chult – where our abilities would be better used in an effort to bring down the Tomb.
+
+Knowing that the odds were against us we decided to set out on our grim task in the morning. The blood moon eclipse was but three days away, and we were armed with her experience – what could go wrong?
+
+### Spoilers below!
+
+For the DM:
+
+- this adventure runs best with four or five characters at level 13, but AL play allows for tables of 3-7 players of levels 11-16 (tier 3)
+- this adventure has a significant place in the annals of Dungeons & Dragons history. It is known as a place of death and horror and as such Dungeon Masters are encouraged to run the content as-written and not "pull punches"
+- the Tomb of Horrors can be treated as a rumored place of legend, appearing only during the total eclipse of a full blood moon or some other exotic occurrence. If you must place it somewhere within the Forgotten Realms, consider placing it in the High Moor or the Serpent Hills. It is not suggested that you tie the Tomb to the fallen empire of Netheril – their efforts went in other directions than this.
+- sometimes the most terrifying thing a villain can do is escape – just be careful to not yank a victory from the characters if they have earned it; defeating an opponent can still feel satisfying even if the opponent disappears (or worse, simply walks away)
+- **Entering the Tomb.** It is easy to overlook this, but the adventure does not start inside the Tomb. The characters must find their way in – and there is more than one possible entrance. This portion should be an introduction to what the characters can expect as they get into the Tomb proper; as a DM, use this section to set the mood for the trials ahead.
+- **Random encounters.** There are no random encounters inside the Tomb. Acererak does nothing at random, and only allows things to occur according to his great and unknowable plan. A Dungeon Master is well within their rights to prevent long rests from having full benefit inside the Tomb.
+- **Timing.** This adventure moves best "at the speed of the party". Dungeon Masters are encouraged to let players make their own decisions on timing, and there is nothing wrong with spending 3-4 sessions inside the Tomb. Also, note that it takes 10 minutes to search a 10 foot by 10 foot space – this is first expressed in the section about the cliff face, but is appropriate for the interior of the Tomb as well.
+- **Demonic Attention.** Be sure to read the sidebar at the beginning of the chapter about how the characters might gain the attention of one or more demons. This sidebar can also be triggered if the characters use teleportation magic if the characters are sufficiently powerful.
+- **Environment.** Tomb of Horrors has been around for many years, and many players and DMs have [wandered its halls](https://wizkids.com/dd-icons-of-the-realms-toa/). Some creative searching may reveal [excellent props and handouts](https://www.pinterest.com/explore/tomb-of-horrors/) created by those that have already come through. Be sure to review them thoroughly before using them in your game, as they might not match this version of the Tomb exactly. [Some DMs have even created alternative riddles](http://www.dragonmag.com/5.0/#!/article/115045/103448400), and there is no shortage of [very excellent digital maps on dmsguild.com](https://www.dmsguild.com/product/193006/Tomb-of-Horrors--Realistic-Maps)!
+- **Lycanthropy.** Refer to the standard Adventurers League rules regarding lycanthropy if a character becomes infected. In short: it it's not removed at the end of the adventure, or if the character chooses to play a different adventure before curing it, that character is immediately retired from AL play until the lycanthropy is removed.
+- **Magic items (and magic traps).**
+  - A certain archway might strip one or more characters of their gear, including their permanent magical items. This does not reduce a character's permanent magic item count.
+  - A gem of seeing requires attunement, and will not work until a character does this. Remember that ownership of an item is determined at the end of a session and is not a prerequisite of attunement! If the item is destroyed as per the adventure text, the owner's permanent magic item count is not reduced.
+  - If someone's alignment is reversed, lawful becomes chaotic and good becomes evil (and vice versa); neutral can become an alignment of the DM's choice. While this provides a lot of roleplaying opportunities, the characters should be made aware of how they can change back (see the adventure text) and what it means if they do not.
+  - If a permanent magic item is destroyed in areas 15 or 19, the owner's permanent magic item count is not reduced.
+  - a certain cursed gem will invariably harm those that cast *wish* from it, and because it tells the holder that it can cast *wish*… what reason might the character have to not use it? Also, any character caught in the gem's explosion is permanently killed and is retired from Adventurers League play.
+  - if the efreeti is released, it might grant three wishes. Note that this is not the wish spell, and it is limited in what it can create or deliver – in no case can the effect a wish that it grants last beyond the end of this game session
+  - the *staff of the magi* is broken, as per the adventure text; as such, it is unusable
+  - if the demilich decides to teleport a character, run it as-written: there is no saving throw
+  - Acererak's treasure pile is detailed in the Adventurers League FAQ
+  - No *sphere of annihilation* that is part of the Tomb of Horrors can be removed from the Tomb of Horrors. At all. Acererak deals with the void directly, and every *sphere* in the Tomb is bound explicitly to him.
+- **Cursed items.** Cursed items are a part of D&D history and often serve a purpose in the story. However, some players might be disappointed and view this as a ‘gotcha' moment – tread carefully. Unless the item's description specifically states otherwise, the characters can cast identify on it (or use a downtime spellcasting activity!) and learn the item's properties, including the curse. Once a cursed item is taken by a character and recorded on their logsheet, a *remove curse* spell only removes the attunement ("de-attunes" from the character) and does not undo the curse.
+
+Thinking outside the box:
+
+- with tables of 6-7 players, consider some ways to increase the scope of the adventure and keep everyone entertained
+  - add 1-2 additional monsters to each combat
+  - increase (slightly!) the potentcy of the traps in the Tomb
+  - consider granting creatures small boosts like the *pack tactics* ability, or granting a feat to a single creature in the encounter (though with great power comes great responsibility; tread carefully!)
+- the demilich has grand plans outside of the Tomb of Horrors – consider dropping hints about Chult and the Soulmonger!
+- using some non-mechanical things to mark time can really drive home the sense of urgency. For example, in a time of need you may need to verbally – and without additional interaction – count down slowly from 10 to 1; if the characters have not come to a consensus, they may be subject to terrible effects (check the adventure text for examples)
+- Dungeon Masters can get  limited-time special certificate from Fai Chen throughout the end of s6 and all of s7 – work with your local events to ensure that Fai Chen attends!
+- other thoughts? hit us on [Facebook](https://www.facebook.com/groups/DMsLeague/)!
