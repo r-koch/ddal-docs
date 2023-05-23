@@ -1,3 +1,5 @@
+Source: [https://dndadventurersleague.org/storyline-seasons/tyranny-of-dragons/phlan-during-tyranny-of-dragons/](https://web.archive.org/web/20201126233455/https://dndadventurersleague.org/storyline-seasons/tyranny-of-dragons/phlan-during-tyranny-of-dragons/)
+
 # State of Phlan
 
 > "To learn the state of Phlan is to understand her many trials and tragedies." – Lord Sage of Phlan, 1489 DR
