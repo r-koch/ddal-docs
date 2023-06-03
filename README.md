@@ -2,7 +2,7 @@
 
 This is an attempt to bring some law to the chaos that are the [D&D Adventurers League (AL)](https://dnd.wizards.com/adventurers-league) documents.
 
-Everybody is welcome to participate, improve, and correct this! No really, I can't do this alone 😅. Check out the [mission statement](#mission-statement) below.
+Everybody is welcome to participate, improve, and correct this! No seriously, I can't do this alone 😅. Check out the [mission statement](#mission-statement) below.
 
 ## Core Documents
 
@@ -61,36 +61,34 @@ Everybody is welcome to participate, improve, and correct this! No really, I can
 - [Tier 2 pre-generated characters (ZIP)](https://cdn.discordapp.com/attachments/1049795241433124935/1076223368333893713/925821-Adventurers_League_Tier_2_Pregenerated_Characters_3.zip)
 - [WBW-PR Lost Things Prelude Adventure (PDF)](https://media.wizards.com/2021/dnd/downloads/WBW-PR_Lost_Things_Prelude_Adventure.pdf)
 
-## AL Admin Support Documents for Dungeon Masters
+## Old Supporting Resources and Documents
 
-**Spoilers for Players!** These documents by (former) Adventurers League Admins provide additional information for Dungeon Masters.
+**Can contain spoilers for players!**
 
-- [City Guide: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/202483/City-Guide-Mulmaster)
+These resources and documents provide additional information for players and dungeon masters that was left out of the Adaptaion Guide (and Content Catalogue).
+
 - [Conversations with Faction Contacts in the Moonsea (DMsGuild)](https://www.dmsguild.com/product/171835/Conversations-With-Faction-Contacts-in-the-Moonsea-vol-1)
-- [Season 1 Narrative: Phlan (DMsGuild)](https://www.dmsguild.com/product/171065/Season-1-Narrative-Phlan)
-- [Season 2 Narrative: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/171064/Season-2-Narrative-Mulmaster)
-- [Season 3 Narrative: Hillsfar (DMsGuild)](https://www.dmsguild.com/product/171062/Season-3-Narrative-Hillsfar)
-- [Season 5 Narrative: Parnast, Stagwick, & Beregost (DMsGuild)](https://www.dmsguild.com/product/209064/Season-5-Narrative-Parnast-Stagwick--Beregost)
-- [Season 7 Narrative: Port Nyanzaru (DMsGuild)](https://www.dmsguild.com/product/264264/Season-7-Narrative-Port-Nyanzaru)
-
-## Old Support Documents
-
-Some documents containing information that was left out of the content catalogue and the adaptation guide.
-
 - [Faction Guide (PDF)](/unhosted_docs/DDAL_FACTION_GUIDE_v701.pdf)
 - Season 1
+  - [Season 1 Narrative: Phlan (DMsGuild)](https://www.dmsguild.com/product/171065/Season-1-Narrative-Phlan)
   - [State of Phlan](/unhosted_docs/DDAL_State_of_Phlan.md)
 - Season 2
+  - [City Guide: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/202483/City-Guide-Mulmaster)
+  - [Season 2 Narrative: Mulmaster (DMsGuild)](https://www.dmsguild.com/product/171064/Season-2-Narrative-Mulmaster)
   - [State of Mulmaster (PDF)](/unhosted_docs/State-of-Mulmaster-with-Logsheet.pdf)
 - Season 3
+  - [Season 3 Narrative: Hillsfar (DMsGuild)](https://www.dmsguild.com/product/171062/Season-3-Narrative-Hillsfar)
   - [State of Hillsfar (PDF)](/unhosted_docs/Hillsfar-Regional-Character-Options.pdf)
 - Season 4
   - [Curse of Strahd - Dungeon Master's Guide (PDF)](/unhosted_docs/CoS%20-%20Dungeon%20Master's%20Guide.pdf)
   - [DDAL04-02 The Beast Expansion (DMsGuild)](https://www.dmsguild.com/product/180498/DDAL0402-The-Beast-5e-Expansion-OPTIONAL-CONTENT)
   - [Expanded Dark Gifts Table (DMsGuild)](https://www.dmsguild.com/product/186573/DDAL04-Expanded-Dark-Gifts-Table-OPTIONAL-CONTENT)
+- Season 5
+  - [Season 5 Narrative: Parnast, Stagwick, & Beregost (DMsGuild)](https://www.dmsguild.com/product/209064/Season-5-Narrative-Parnast-Stagwick--Beregost)
 - Season 6
-  - [Tales from the Yawning Portal Hooks](/unhosted_docs/)
+  - [Tales from the Yawning Portal Hooks](/unhosted_docs/DDAL_DDHC-TYP_Hooks.md)
 - Season 7
+  - [Season 7 Narrative: Port Nyanzaru (DMsGuild)](https://www.dmsguild.com/product/264264/Season-7-Narrative-Port-Nyanzaru)
   - [Tomb of Annihilation Dungeon Master Primer (PDF)](unhosted_docs/DDAL_Death_Curse_Primer_v1.3.pdf)
 - Season 8
   - [Volo's Waterdeep Enchiridion (DMsGuild)](https://www.dmsguild.com/product/254063/Volos-Waterdeep-Enchiridion-5e)
@@ -109,13 +107,19 @@ The plan:
 
 - Transcribe documents that are updated regularly from PDF to [markdown](https://www.markdownguide.org/basic-syntax)
 - Link to documents that aren't updated
-- Host documents that aren't hosted anymore but are still AL-legal
+- Host documents that aren't hosted anymore but still useful and not superseded by more recent
 - Releases!
   - Use [Semantic Versioning](https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning) (\<major>.\<minor>.\<patch>)
   - New \<major>.\<minor>.0 release every time a new AL document is published
   - Use the same major and minor version as the most recent AL document
   - Use patch version for other changes (corrections, additions, and removals)
 
+How to contribute:
+
+- Think something is wrong? Create an [issue](https://github.com/r-koch/ddal-docs/issues) and let me know!
+- Know something is wrong and how to fix it? [Create a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and a [pull request](https://github.com/r-koch/ddal-docs/pulls)!
+- If you have no idea what the above means you can [reach out via e-mail](mailto:ddal-docs@rkoch.dev).
+
 ---
 
-D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. © Wizards of the Coast LLC.
+D&D Adventurers League Documents is unofficial Fan Content permitted under the [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
