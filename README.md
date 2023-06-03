@@ -116,7 +116,7 @@ The plan:
 
 How to contribute:
 
-- Think something is wrong? Create an [issue](https://github.com/r-koch/ddal-docs/issues) and let me know!
+- Think something is wrong? [Create an issue](https://github.com/r-koch/ddal-docs/issues) and let me know!
 - Know something is wrong and how to fix it? [Create a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and a [pull request](https://github.com/r-koch/ddal-docs/pulls)!
 - If you have no idea what the above means you can [reach out via e-mail](mailto:ddal-docs@rkoch.dev).
 
