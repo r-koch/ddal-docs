@@ -18,6 +18,14 @@ Charity event certificates (like for Extra Life fundraising) and the older exclu
 
 They're never tradable for another item between characters.
 
+### Can a PC buy an **upcast**ed 5th level cure wounds?
+
+Players can't purchase upcast spell scrolls.
+
+### What does "A spell scroll can be purchased only by a character who is **capable of casting the spell** in question" (XGE Appendix A) mean?
+
+The spell must be within the character's class spells list.
+
 ### Can **player characters (PCs) from different campaigns** play at the same table? And if they can, can they **trade magic items**?
 
 They can play together as long as the adventure they play is allowed in each of their campaigns.
@@ -234,7 +242,7 @@ It is not, though players who complete it during a Virtual Play Weekend will gai
 
 ### In regard to organizers receiving event support for the Red War epic: <details><summary>show spoiler</summary>The tier 4 epic awards two boons if the simulacrum is destroyed. The old ALCC used to reward the players' a choice of one boon to each character who survived the adventure, but did not destroy the simulacrum.</details> Is that reward still available?
 
-Yes.
+Yes. And event organizers running the epic will be informed.
 
 ## Spelljammer Questions
 
@@ -357,13 +365,13 @@ We're looking to expand our premier organizer partner program in the near future
 
 ## Event Organizer Questions
 
-### Can we make adjustments to the AL logo for our Discord Server, etc?
+### Can we make adjustments to the AL logo?
 
-We would prefer that you do not. The AL logo is a Wizards trade mark, is not covered under their Fan Content/Fair Use policy, [and] Wizards material may not be altered. https://dnd.wizards.com/resources/fan-site-kit
+The AL logo is a Wizards trade mark, is not covered under their Fan Content/Fair Use policy, [and] may not be altered. https://dnd.wizards.com/resources/fan-site-kit
  
-### How do I get the Adventurers League **Trading Post and free epic** adventures for my upcoming event?
+### How do I get the **Trading Post and free epic** adventures for my upcoming event?
 
-Event organizers refer to the D&D Adventurers League Organizer's Guide https://dnd.wizards.com/adventurers-league/dm-info. For official support, submit your request at the "Customer Support Portal" link in the Organizer's Guide (http://bit.ly/ddal_request) 3 months in advance (no later than 2 months).
+Refer to the Organizer's Guide https://dnd.wizards.com/adventurers-league/dm-info. For official support, submit your request at the "Customer Support Portal" link in the Organizer's Guide (http://bit.ly/ddal_request) 3 months in advance (no later than 2 months).
  
 ### What **epics** are available?
 
@@ -377,7 +385,7 @@ Free epics available for non-charity event organizers who request May through Ju
 
 ### How can I get epics for my event if I'm too **late to submit for support**?
 
-Purchase an epic for each of your Dungeon Masters at DMsGuild.com.
+Buy an epic for each of your Dungeon Masters at DMsGuild.com.
 
 Dreams of the Red Wizards https://yawningportal.dnd.wizards.com/blog/dreams-of-the-red-wizards-terminal-ambitions-adventure-info-and-release-schedule/ 
 
@@ -390,6 +398,10 @@ Plague of Ancients, DDEP10-00 through 02 https://www.dmsguild.com/browse.php?key
 ### What if I sent a **support request but haven't heard back** (or heard back in a while)?
 
 If you've had email contact with Claire, reply to those emails. If not, check that you used the correct link in the Organizer's Guide ("Customer Support Portal" http://bit.ly/ddal_request).
+
+### What do we do if a trading post item has an **incorrect rarity listed**?
+
+Cross of the error and write in the correct rarity.
 
 ## Update Questions
 
@@ -433,5 +445,9 @@ No answer yet.
 No answer yet.
 
 ### Since "**salvage missions do not reward characters with gold and magic items**. Instead, characters gain salvage they can use to improve their base, and a chance to advance in level" and Eberron: Oracle of War: Salvage Bases and Missions is no longer a valid source for AL play, how should DMs give rewards for Salvage Mission adventures? "Can we follow the 'Rewards' rules in the Eberron Dungeoncraft document (ex.: reward 1 item from table A and up to 3 common consumables or 1 uncommon consumable, for a 2-hour tier 1 salvage adventure) and reward those at the end of a Salvage Mission adventure? If not, can that be put as a request? Or Salvage Mission adventures should be treated as giving no reward at all anymore?"
+
+No answer yet.
+
+### Will the new Extra Life content, "Misplaced Monsters," be allowed in AL for Dungeoncrafts?
 
 No answer yet.
