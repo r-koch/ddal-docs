@@ -158,7 +158,21 @@ Yes.
 
 ### "**Consumable resources**" are "spell slots, rages, etc," class features and racial traits that are regained after a rest. Are magic items that regain charges daily included? Do players roll like normal or do the magic items restore their full charges?
 
-Yes, magic items that regain charges daily are considered "consumable resources." You do not need to roll, they are restored to their full charge as they would the next day. 
+Yes, magic items that regain charges daily are considered "consumable resources." You do not need to roll, they are restored to their full charge as they would the next day.
+
+### If you buy a sailing boat from PHB, can you put a **teleportation circle** on it? Or just buildings (FAQ)?
+
+There are no AL-specific rulings; they are at DM discretion.
+
+### Can a **spelljamming helm** convert an existing PC-owned ship into a spelljammer?
+
+There are no AL-specific rulings; they are at DM discretion.
+
+## Keys from the Golden Vault
+
+### What should <details><summary>show spoiler</summary>Jalynvyr</details> give the characters in <details><summary>show spoiler</summary>"Heart of Ashes," S9 "Parlor"</details>?
+
+DMs chose one <details><summary>show spoiler</summary>rare potion or scroll or two of a lesser rarity (potions or scrolls, or one of each) from the "Dungeon Master’s Guide or the adventure itself" (DMs Guide, "Character Rewards" section)</details>.
 
 ## Forgotten Realms Adaption Guide
 
@@ -278,6 +292,12 @@ All the important information you need is provided in the handouts (speed, weapo
 ### How do we prevent or what can we do if the **party doesn't have a spellcaster**? 
 
 A character with the ability to cast even one spell can be a spelljammer. You can have a pre-game discussion so they have more information while choosing their characters or time to rebuild. With or without the discussion, if needed, use the apprentice wizard from Mordenkainen Presents: Monsters of the Multiverse (https://www.dndbeyond.com/monsters/2560723-apprentice-wizard) as a cadet.
+
+## Dragonlance Questions
+
+### In the Dragonlance adaption guide we do not have guidance on the **Warriors of Krynn** board game text boxes for optional play. Are they AL playable?
+
+Yes.
 
 ## Dungeoncraft (DC) Questions 
  
@@ -422,14 +442,6 @@ Work-in-Progress
 
 ## Questions I'm Awaiting Answers To 
 
-### If you buy a sailing boat from PHB, can you put a **teleportation circle** on it? Or just buildings (FAQ)?
-
-No answer yet.
-
-### Can a **spelljamming helm** convert an existing PC-owned ship into a spelljammer?
-
-No answer yet.
-
 ### Missing from current guides: 
 
 #### PCs proficient with martial weapons have **proficiency in firearms**.
@@ -440,11 +452,7 @@ No answer yet.
 
 No answer yet.
 
-### In the Dragonlance adaption guide we do not have guidance on the **Warriors of Krynn** board game text boxes for optional play. Are they AL playable?
-
-No answer yet.
-
-### Since "**salvage missions do not reward characters with gold and magic items**. Instead, characters gain salvage they can use to improve their base, and a chance to advance in level" and Eberron: Oracle of War: Salvage Bases and Missions is no longer a valid source for AL play, how should DMs give rewards for Salvage Mission adventures? "Can we follow the 'Rewards' rules in the Eberron Dungeoncraft document (ex.: reward 1 item from table A and up to 3 common consumables or 1 uncommon consumable, for a 2-hour tier 1 salvage adventure) and reward those at the end of a Salvage Mission adventure? If not, can that be put as a request? Or Salvage Mission adventures should be treated as giving no reward at all anymore?"
+### Since "**salvage missions do not reward characters with gold and magic items**. Instead, characters gain salvage they can use to improve their base, and a chance to advance in level" and Eberron: Oracle of War: Salvage Bases and Missions is no longer a valid source for AL play, how should DMs give rewards for Salvage Mission adventures?
 
 No answer yet.
 
