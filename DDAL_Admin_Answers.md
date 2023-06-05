@@ -172,7 +172,7 @@ There are no AL-specific rulings; they are at DM discretion.
 
 ### What should <details><summary>show spoiler</summary>Jalynvyr</details> give the characters in <details><summary>show spoiler</summary>"Heart of Ashes," S9 "Parlor"</details>?
 
-DMs chose one <details><summary>show spoiler</summary>rare potion or scroll or two of a lesser rarity (potions or scrolls, or one of each) from the "Dungeon Master’s Guide or the adventure itself" (DMs Guide, "Character Rewards" section)</details>.
+DMs chose one <details><summary>show spoiler</summary>rare potion or scroll or two of a lesser rarity (potions or scrolls, or one of each) from the "Dungeon Master's Guide or the adventure itself" (DMs Guide, "Character Rewards" section)</details>.
 
 ## Forgotten Realms Adaption Guide
 
