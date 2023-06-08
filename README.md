@@ -40,7 +40,7 @@ Everybody is welcome to participate, improve, and correct this! No seriously, I 
 ## Dungeoncraft Documents
 
 - [Adventurers League Community Logo (DMsGuild)](https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo)
-- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1105938028586860565/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.0.pdf)
+- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1116197588933292083/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.2.pdf)
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
 - [Design Guide: Spelljammer (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
