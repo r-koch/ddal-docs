@@ -26,21 +26,21 @@ Everybody is welcome to participate, improve, and correct this! No seriously, I 
 
 ## Adaptation Guides
 
-- [Critical Role Pack (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332170452992/DD_Adventurers_League_Critical_Role_Pack_v1.0.pdf)
+- [Critical Role Pack (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294975587827833/DD_Adventurers_League_Critical_Role_Pack_v1.0.pdf)
 - [Dragons of Stormwreck Isle (Blog)](https://yawningportal.dnd.wizards.com/blog/dragons-of-stormwreck-isle-adaptation-guidance/)
 - [Dragonlance - Shadow of the Dragon Queen (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1083919162553946132/Shadow_of_the_Dragon_Queen_Dragonlance_Adaptation_Guide.pdf)
-- [Forgotten Realms (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333843968010/DD_Adventurers_League_Adaptation_Guide_2014-21_v1.0.pdf)
+- [Forgotten Realms (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294976137269279/DD_Adventurers_League_Adaptation_Guide_2014-21_v1.0.pdf)
   - [Content Catalogue (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1077708099126825032/Adventurers_League_Content_Catalogue_v9.02.pdf)
     - [State of Mulmaster (PDF)](/unhosted_docs/State-of-Mulmaster-with-Logsheet.pdf)
-- [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181332669567106/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
+- [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294976909029526/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
 - [Keys from the Golden Vault (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1102710535520268389/Keys_from_the_Golden_Vault_Adaption_Guide.pdf)
-- [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1050181333453901923/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
+- [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294975856259112/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
 - [The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Pack-The_Wild_Beyond_the_Witchlight.pdf)
 
 ## Dungeoncraft Documents
 
 - [Adventurers League Community Logo (DMsGuild)](https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo)
-- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1116197588933292083/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.2.pdf)
+- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1117959071178424350/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.2c.pdf)
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
 - [Design Guide: Spelljammer (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
