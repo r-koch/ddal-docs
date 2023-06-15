@@ -22,9 +22,9 @@ They're never tradable for another item between characters.
 
 Players can't purchase upcast spell scrolls.
 
-### What does "A spell scroll can be purchased only by a character who is **capable of casting the spell** in question" (XGE Appendix A) mean?
+### Who can **purchase spell scrolls**?
 
-The spell must be within the character's class spells list.
+Any player character. The limit on how many consumables a PC can carry into a game (AL Player's Guide) and who can cast the spell (*Dungeon Master's Guide*, spell scroll description) still applies.
 
 ### Can **player characters (PCs) from different campaigns** play at the same table? And if they can, can they **trade magic items**?
 
@@ -438,7 +438,7 @@ Cross of the error and write in the correct rarity.
 Work-in-Progress
 
 - new Logsheet
-- website with links to the new guides, *Spelljammer: Adventures in Space* and *Journeys Through the Radiant Citadel* Adaption Guides, *Critical Role: Call of the Netherdeep* Pack, and service awards. (I will update when I have more specific release date from WotC) 
+- website with links to the new guides, *Spelljammer: Adventures in Space* and *Journeys Through the Radiant Citadel* Adaption Guides, *Critical Role: Call of the Netherdeep* Pack, and service awards. (I have no completion date but you can see the changes being made to the site now https://dnd.wizards.com/adventurers-league)
 
 ## Questions I'm Awaiting Answers To 
 
