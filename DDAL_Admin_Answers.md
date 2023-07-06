@@ -349,7 +349,11 @@ No, just award smokepowder.
 #### Can we award bullets?
 
 Yes, award the same number of smokepowder shots, 5. 
- 
+
+### Can DC designers write sidekicks into their adventure?
+
+Yes. Sidekicks must be from that DC campaign's available sources, as published (no adjustments can be made and sidekicks cannot be create from scratch by the DC designer).
+
 ### Does adding the property: "**Unusual Nature**. The creature doesn't require air." as suggested in Boo's Astral Menagerie count as an addition we can put below a stat block that does not change the creatures CR?
 
 You may add "Unusual Nature" without it changing the CR. 
