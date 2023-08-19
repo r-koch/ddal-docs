@@ -43,7 +43,8 @@ Everybody is welcome to participate, improve, and correct this! No seriously, I 
 - [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1117959071178424350/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.2c.pdf)
 - [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
 - [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
-- [Design Guide: Spelljammer (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
+- [Design Guide: Spelljammer (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1141922531473883176/Dungeoncraft_Spelljammer_v1.3.pdf)
+  - [Spelljammer Designers Pack (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
 
 ### Outdated Dungeoncraft Documents
 
