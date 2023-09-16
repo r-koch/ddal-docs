@@ -427,20 +427,15 @@ If you've had email contact with Claire, reply to those emails. If not, check th
 
 Cross of the error and write in the correct rarity.
 
-## Update Questions
+## Guidance Update Questions
 
 ### When will we see updates to guides and the website?
 
-**WIP during the third quarter of 2023 (ends September) but do not have a release date yet**
+- Service Rewards - by end of September
 
-(All are in progress and will be released as soon as possible)
+## Work-in-Progress, ETA
 
-- Dragonlance Dungeoncraft
-- evaluating all guidelines and future updates
-  - including the Forgotten Realms Adaption Guide final and FAQ that were listed here for completion last quarter
-
-**Work-in-Progress**
-
+- an extensive reevaluation of ALL guidelines (Rules guidance and clarification questions can be asked in ⁠[#al-admin-questions](https://discord.com/channels/516367331358801950/1049794647322546246) but may not be answered until after the review)
 - new Logsheet
 - website with links to the new guides, *Spelljammer: Adventures in Space* and *Journeys Through the Radiant Citadel* Adaption Guides, *Critical Role: Call of the Netherdeep* Pack, and service awards. (I have no completion date but you can see the changes being made to the site now https://dnd.wizards.com/adventurers-league)
 
