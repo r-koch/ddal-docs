@@ -182,6 +182,12 @@ none currently
 
 none currently
 
+## Forgotten Realms (FR) Adaptation Guides Questions Lost Mine of Phandelver
+
+### Can we play the 2014 version of Lost Mine of Phandelver?
+
+The updated version of *Lost Mine of Phandelver* is printed in *Phandelver and Below: The Shattered Obelisk*. Following guidance, we should use the latest version. In the case of this adventure, we have a little more flexibility; if a DM cannot run the newest version, they should tell their players that they're running the 2014 version and use the newest 2023 descriptions for rewards.
+
 ## Candlekeep Mysteries Questions
 
 ### At the end of "The Scrivener's Tale" in Candlekeep Mysteries: the last sentence of the "Treasure" section lists possible rewards as <details><summary>show spoiler</summary>If the characters want to sell the collection, you can decide what it might be worth, but the characters should earn at least 50,000 gp for the lot (see also "A Little Light Reading" below). Such a reward might take the form of one or two very rare magic items, a small keep, a large parcel of land, or a seaworthy galley with a full crew.</details> What is the guidance on what we can reward? 
@@ -371,7 +377,7 @@ Do not sell your versions separately on the DMs Guild.
  
 ### What permissions do I need for **language translations** of DDAL content?
 
-For translating Dungeoncraft adventures, collaborate with the authors and negotiate some form of compensation. The translation should be included with the original version on DMsGuild.com, not sold separately. Before translating official D&D Adventurers League content (guidelines, Ravenloft: Mist Hunters series, Dreams of the Red Wizards, etc) make a "Permission Request" at the Wizards of the Coast Support page (https://support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000002843). DDAL admin don't give permission.
+For translating Dungeoncraft adventures, collaborate with the authors and negotiate some form of compensation. The translation should be included with the original version on DMsGuild.com, not sold separately. You can translate AL guides to share privately with players. If you want to translate official AL content for distribution (guidelines, Ravenloft: Mist Hunters series, Dreams of the Red Wizards, etc) make a "Permission Request" at the Wizards of the Coast Support page (https://support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000002843). DDAL admin don't give permission.
 
 ### Can designers sell only the **Roll20 version** without the DC template version?
 
