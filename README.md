@@ -54,6 +54,7 @@ Everybody is welcome to participate, improve, and correct this! No seriously, I 
 ## Supporting Resources and Documents
 
 - [Forgotten Realms Adventure Index (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Forgotten_Realms_Adventure_Index_v11.0.pdf)
+- [Liar's Night 2023 (Blog)](https://yawningportal.dnd.wizards.com/blog/liars-night-2023/)
 - [Logsheet (PDF)](https://media.wizards.com/2020/dnd/downloads/S10_AL_Logsheet.pdf)
 - [Organizer's Guide (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Organizers_Guide_v11.0.pdf)
   - [Creating a Code of Conduct (Blog)](https://yawningportal.dnd.wizards.com/blog/creating-a-code-of-conduct/)
