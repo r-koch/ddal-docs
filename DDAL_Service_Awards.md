@@ -2,7 +2,7 @@
 
 # D&D® Adventurers League Service Awards
 
-**Effective Date: March 1, 2023 to August 31, 2023. Season: 12B.**
+**Effective Date: Oct. 5, 2023 to Jan. 31, 2024. Season: 12C.**
 
 ## What is this?
 
@@ -35,15 +35,15 @@ The following types of service are eligible for rewards. Where applicable, time 
 
 ***Reviewing DMsGuild Adventures.*** You earn one hour of time per two reviews written for adventures on DMsGuild.
 
-***Event Organization.*** You earn one reward per day of a public event, or instance of a public event if the event is less than a day long. You must organize an event with a minimum of two tables of play (usually at least eight players and two Dungeon Masters) to qualify for this reward.
-
-***Event Staffing.*** You earn one reward per day of a public event, or instance of a public event if the event is less than a day long. You must be a staff member for an event with a minimum of 20 players to qualify for this award.
-
 ***Running Learn-to-Play.*** You earn time for running learn-to-play games (either as a Dungeon Master or staff member) at a rate of one hour for every two hours of time spent during learn-to-play.
 
 ***Create a Code of Conduct.*** If you contributed to the creation of your event's code of conduct, you earn one reward per unique event code of conduct created. An event series or recurring event only counts once for this award.
 
 ***Streamed Games.*** If you participated as a producer of a streamed or podcasted D&D Adventurers League game, you earn time towards rewards equal to double the time of the streamed session. If you participated as a Dungeon Master or player in a streamed session, you earn time equal to the time of the streamed session or streamed Dungeon Master prep.
+
+***Event Organization.*** This is the act of setting up and managing multiple tables of play. You earn one reward per day of a public event, or instance of a public event if the event is less than a day long. You must organize an event with a minimum of two tables of play (usually at least eight players and two Dungeon Masters) to qualify for this reward.
+
+***Event Staffing.*** This is the act of assisting event organizers in organizing duties, excluding Dungeon Mastering. You earn one reward per day of a public event, or instance of a public event if the event is less than a day long. You must be a staff member for an event with a minimum of 20 players to qualify for this award.
 
 > ### Rewards Stack
 >
@@ -59,11 +59,11 @@ You must record rewards assigned to a character on your character's logsheet and
 
 You are responsible for tracking your rewards. Keep an accurate log of your service hours and activities; record your hours as soon as you can after the service and make your selections as appropriate.
 
-You may choose to wait to select your rewards, but all rewards for this reporting period must be earned by August 31, 2023. You should choose and assign your rewards before performing any service for the next reporting period.
+You may choose to wait to select your rewards, but all rewards for this reporting period must be earned by January 31 2024. You should choose and assign your rewards before performing any service for the next reporting period. If a new Service Awards document is not available on Feb 1st 2024, you may continue to use this or start saving hours for the next Service Awards document.
 
 ## Rewards List: Season of Heists
 
-*March 1, 2023 to August 31, 2023*
+*Oct 5, 2023 to January 31, 2024*
 
 Use this sheet as a worksheet to tally your rewards as you've earned them.
 
@@ -81,9 +81,9 @@ Whenever you earn a reward, you may also advance one of your characters one leve
 
 Common or uncommon magic items cost 5 service hours each. You may select rewards in any order from this list. At the end of the season, if you have 1-4 service hours remaining, you may redeem them for one additional reward from this list.
 
-- *[Gloves of thievery](https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery)* + 10 downtime days
-- *[Lightbringer](https://www.dndbeyond.com/magic-items/12465-lightbringer)* [^1] + 10 downtime days
-- *[Spellwrought tattoo](https://www.dndbeyond.com/magic-items/2408275-spellwrought-tattoo)* (2nd level) [^2] + 10 downtime days
+- *[Pyrite Pleisosarus](https://www.dndbeyond.com/magic-items/7102434-prehistoric-figurine-of-wondrous-power-pyrite)* [^2] + 10 downtime days
+- *[Weapon of warning (any from an available source as listed in the Player's Guide except firearms)](https://www.dndbeyond.com/magic-items/5504-weapon-of-warning)* + 10 downtime days
+- *[Cap of water breathing](https://www.dndbeyond.com/magic-items/5345-cap-of-water-breathing)* + 10 downtime days
 - Common or Uncommon reward + 250 gp
 - Common or Uncommon reward + 250 gp
 - Common or Uncommon reward + 250 gp
@@ -92,9 +92,9 @@ Common or uncommon magic items cost 5 service hours each. You may select rewards
 
 Rare magic items cost 10 service hours each. You may select rewards in any order from this list.
 
-- *[Armor of necrotic resistance (studded leather)](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance)* + 20 downtime days
-- *[Dagger of venom](https://www.dndbeyond.com/magic-items/4613-dagger-of-venom)* + 20 downtime days
-- *[Kagonesti forest shroud](https://www.dndbeyond.com/magic-items/5912492-kagonesti-forest-shroud)* [^3] + 20 downtime days
+- *[Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)* [^1] + 20 downtime days
+- *[Staff of the Rooted Hills](https://www.dndbeyond.com/magic-items/7102440-staff-of-the-rooted-hills)* [^2] + 20 downtime days
+- *[Wayferer's boots](https://www.dndbeyond.com/magic-items/7102444-wayfarers-boots)* [^2] + 20 downtime days
 - Rare reward + 2500 gp
 - Rare reward + 2500 gp
 - Rare reward + 2500 gp
@@ -103,9 +103,9 @@ Rare magic items cost 10 service hours each. You may select rewards in any order
 
 Very rare magic items cost 20 service hours each. You may select rewards in any order from this list.
 
-- *[Rod of absorption](https://www.dndbeyond.com/magic-items/4744-rod-of-absorption)* + 30 downtime days
-- *[Manual of gainful exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)* + 30 downtime days
-- *[Ring of telekinesis](https://www.dndbeyond.com/magic-items/4733-ring-of-telekinesis)* + 30 downtime days
+- *[Armor of safeguarding (heavy)](https://www.dndbeyond.com/magic-items/7102410-armor-of-safeguarding)* [^2] + 30 downtime days
+- *[Manual of bodily health](https://www.dndbeyond.com/magic-items/4674-manual-of-bodily-health)* + 30 downtime days
+- *[Ring of amity](https://www.dndbeyond.com/magic-items/7102437-ring-of-amity)* [^2] + 30 downtime days
 - Very Rare reward + 10,000 gp
 - Very Rare reward + 10,000 gp
 - Very Rare reward + 10,000 gp
@@ -122,55 +122,53 @@ This reward costs 40 service hours each time it is selected.
 
 Legendary magic items cost 80 service hours each. You may select rewards in any order from this list.
 
-- *[Tablet of Reawakening](https://www.dndbeyond.com/magic-items/6504940-tablet-of-reawakening)* [^4] + 40 downtime days
-- *[Red Wizard Blade](https://www.dndbeyond.com/magic-items/6504939-red-wizard-blade)* [^4] + 40 downtime days
+- *[Longbow of healing Hearth](https://www.dndbeyond.com/magic-items/7102426-longbow-of-the-healing-hearth)* [^2] + 40 downtime days
+- *[Harp of Gilded Plenty](https://www.dndbeyond.com/magic-items/7102422-harp-of-gilded-plenty)* [^2] + 40 downtime days
 - Legendary reward + 40 downtime days
 
-[^1]: Item found in Lost Mines of Phandelver.
-[^2]: Item found in Tasha's Cauldron of Everything.
-[^3]: Item found in Dragonlance: Shadow of the Dragon Queen.
-[^4]: Item found as Dungeons & Dragons: Honor Among Thieves movie promotional material through DnDBeyond.com.
+[^1]: Item found in Waterdeep: Dungeon of the Mad Mage
+[^2]: Item found in Bibgy Presents: Glory of the Giants
 
-#### ***Gloves of Thievery***
+#### ***Cap of Water Breathing***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in the *Dungeon Master's Guide*.
 
-#### ***Lightbringer***
+#### ***Weapon of Warning***
 
-This item is described in Lost Mines of Phandelver.
+This item is described in the *Dungeon Master's Guide*.
 
-#### ***Spellwrought Tattoo (2nd Level)***
+#### ***Pyrite Pleisoraus***
 
-This item is described in Tasha's Cauldron of Everything.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Armor of Necrotic Resistance (Studded Leather)***
+#### ***Dagger of Blindsight***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in *Waterdeep:Dungeon of the Mad Mage*
 
-#### ***Dagger of Venom***
+#### ***Staff of the Rooted Hills***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Kagonesti Forest Shroud***
+#### ***Wayferer's Boots***
 
-This item is described in Dragonlance: Shadow of the Dragon Queen.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Rod of Absorption***
+#### ***Armor of Safeguarding (heavy)***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Manual of Gainful Exercise***
+#### ***Manual of Bodily Health***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in the *Dungeon Master's Guide*.
 
-#### ***Ring of Telekinesis***
+#### ***Ring of Amity***
 
-This item is described in the Dungeon Master's Guide.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Red Wizard Blade***
+#### ***Longbow of Healing Hearth***
 
-This item is described at DnDBeyond as part of the Dungeons & Dragons: Honor Among Thieves promotion.
+This item is described in *Bigby Presents: The Glory of the Giants*
 
-#### ***Tablet of Reawakening***
+#### ***Harp of Gilded Plenty***
 
-This item is described at DnDBeyond as part of the Dungeons & Dragons: Honor Among Thieves promotion.
+This item is described in *Bigby Presents: The Glory of the Giants*
