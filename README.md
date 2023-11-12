@@ -34,22 +34,14 @@ Everybody is welcome to participate, improve, and correct this! No seriously, I 
     - [State of Mulmaster (PDF)](/unhosted_docs/State-of-Mulmaster-with-Logsheet.pdf)
 - [Journeys Through the Radiant Citadel (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294976909029526/Journeys_Through_the_Radiant_Citadel_Adaptation_Guide.pdf)
 - [Keys from the Golden Vault (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1102710535520268389/Keys_from_the_Golden_Vault_Adaption_Guide.pdf)
+- [Phandelver and Below: The Shattered Obelisk (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1162174018288369714/Phandelver_and_Below_The_Shattered_Obelisk_Adaption_Guide.pdf)
 - [Spelljammer - Light of Xaryxis (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1118294975856259112/DD_Adventurers_League_Adaptation_Guide_Spelljammer_Light_of_Xaryxis.pdf)
 - [The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/DDAL_Pack-The_Wild_Beyond_the_Witchlight.pdf)
 
 ## Dungeoncraft Documents
 
-- [Adventurers League Community Logo (DMsGuild)](https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo)
-- [Design Guide: Dragonlance (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1117959071178424350/DD_Adventurers_League_Dungeoncraft_Dragonlance_v1.2c.pdf)
-- [Design Guide: Eberron (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818057695344/DD_Adventurers_League_Dungeoncraft_Eberron_v1.0.pdf)
-- [Design Guide: Ravenloft (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1054504818372255764/DD_Adventurers_League_Dungeoncraft_Ravenloft_v1.0.pdf)
-- [Design Guide: Spelljammer (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1141922531473883176/Dungeoncraft_Spelljammer_v1.3.pdf)
-  - [Spelljammer Designers Pack (DMsGuild)](https://www.dmsguild.com/product/408831/Dungeoncraft-Spelljammer-Designers-Pack)
-
-### Outdated Dungeoncraft Documents
-
-- [Design Guide: Plague of Ancients (PDF)](/unhosted_docs/Dungeoncraft_Adventures_-_Plague_of_Ancients_v2.pdf)
-- [Design Guide: The Wild Beyond the Witchlight (PDF)](https://media.wizards.com/2021/dnd/downloads/Dungeoncraft_Wild_Beyond_the_Witchlight_v1.2.pdf)
+- [Dungeoncraft Design Guide (PDF)](https://cdn.discordapp.com/attachments/1049795241433124935/1172337538225156166/Dungeoncraft__CCv1.1.pdf)
+  - [Adventurers League Community Logo (DMsGuild)](https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo)
 
 ## Supporting Resources and Documents
 
