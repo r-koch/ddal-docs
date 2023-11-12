@@ -144,7 +144,6 @@ Relevant reading: Player's Guide "Coins and Other Treasure," DMs Guide "Mundane 
 ### **Mundane equipment** found during an adventure (as listed treasure or looted from enemy stat blocks) can be sold for 1/2 price before the end of the session. Once sold can the gp be distributed amongst the party?
 
 After the PH Equipment is distributed "however the party chooses" (Player's Guide) then "characters may earn gold by selling claimed mundane equipment for 1/2 its value" (FAQ). That gold can be shared amongst the party if the player chooses. 
- 
 
 ### How should DMs adjudicate **item rewards that were once listed as story items or problematic** under the Season 9 Adventurers League Content Catalogue (ALCC v9.02) but are not addressed in current documentation?
 
@@ -160,27 +159,11 @@ Yes.
 
 Yes, magic items that regain charges daily are considered "consumable resources." You do not need to roll, they are restored to their full charge as they would the next day.
 
-### If you buy a sailing boat from PHB, can you put a **teleportation circle** on it? Or just buildings (FAQ)?
-
-There are no AL-specific rulings; they are at DM discretion.
-
-### Can a **spelljamming helm** convert an existing PC-owned ship into a spelljammer?
-
-There are no AL-specific rulings; they are at DM discretion.
-
 ## Keys from the Golden Vault
 
 ### What should <details><summary>show spoiler</summary>Jalynvyr</details> give the characters in <details><summary>show spoiler</summary>"Heart of Ashes," S9 "Parlor"</details>?
 
 DMs chose one <details><summary>show spoiler</summary>rare potion or scroll or two of a lesser rarity (potions or scrolls, or one of each) from the "Dungeon Master's Guide or the adventure itself" (DMs Guide, "Character Rewards" section)</details>.
-
-## Forgotten Realms Adaption Guide
-
-none currently
-
-## Service Rewards Questions
-
-none currently
 
 ## Forgotten Realms (FR) Adaptation Guides Questions Lost Mine of Phandelver
 
@@ -299,41 +282,11 @@ All the important information you need is provided in the handouts (speed, weapo
 
 A character with the ability to cast even one spell can be a spelljammer. You can have a pre-game discussion so they have more information while choosing their characters or time to rebuild. With or without the discussion, if needed, use the apprentice wizard from Mordenkainen Presents: Monsters of the Multiverse (https://www.dndbeyond.com/monsters/2560723-apprentice-wizard) as a cadet.
 
-## Dragonlance Questions
-
-### In the Dragonlance adaption guide we do not have guidance on the **Warriors of Krynn** board game text boxes for optional play. Are they AL playable?
-
-Yes.
-
-## Dungeoncraft (DC) Questions 
- 
-### Will we get DCs for for **Tiers 4**?
-
-Not for the Spelljammer DC. In the future, I don't have any idea.
- 
-### Can our setting be set in other locations like a **mindscape or dreamscape**?
-
-We need to keep DC adventures in the listed locations. If the listed location is not a mindscape, dreamscape, or other type of location then they are not allowed, not even briefly.
- 
-### Can a DC adventure be written as "a **2 or 4 hour adventure**" or "a **2 to 4 hour** adventure?"
-
-Claire confirms it can be either, not both.
+## Dungeoncraft (DC) Questions
  
 ### Is there going to be any possibility of approval for things **outside of DCs** or is this it?
 
 For now, no. Wizards may review how everything goes but we don't anticipate major changes to what is provided here.
- 
-### Can we **change a monster's spells** to higher levels?
-
-No, we cannot make any changes to stat blocks that would affect a creature's challenge rating (CR).
- 
-### Can we **give the "final boss" a magic item**? Like if your final enemy wears the Boots of the Winterlands, they'd have resist to cold damage and ignore ice/snow difficult terrain, which changes the difficulty if not strictly the CR.
-
-It is fine to inform the DM, in the module's running text, that the magic item is available to the encounter creature for use. However it is not permitted to make additions or adjustments to the stat block or through a sidebar. In addition, authors cannot write adventure body text that changes stats, like reducing/increasing speed, attacks, damage, etc. 
-
-### What **timezone** do we use to post our adventure in time for the deadline?
-
-EST/EDT If the deadline for uploading DCs to the DMs Guild is missed, see the guide for how to continue running it as DDAL content, without posting to the DMs Guild. DCs uploaded after the deadline are contacted by the DMs Guild and instructed on next steps.
 
 ### For the purpose of the DungeonCraft program (which allows 1 to 3 consumables to be awarded) OR trading in AL, are the following items considered to be **consumables**? They seem to fit the definition in the AL documentation, but I don't want to write an invalid DC or make an illegal trade.
 
@@ -345,49 +298,20 @@ EST/EDT If the deadline for uploading DCs to the DMs Guild is missed, see the gu
 6. Keoghtom's Ointment
 
 Looking at it logically and also checking the, Season 11 Players Guide & FAQ and the various item descriptions, these would count as consumables, but they( the authors & players) should remember that Keoghtom's counts as 3 consumables for the purpose of how many consumables you can carry. NOTE: The party can only keep one item of a given name; multiple spellwrought tattoos would probably only allow for one to be kept, per the ALPG.
- 
-### Only **one consumable** per adventure can be smokepowder/gunpowder (which is awarded in a packet which is good for five shots). 
 
-#### Can we award gunpowder?
-
-No, just award smokepowder.
-
-#### Can we award bullets?
-
-Yes, award the same number of smokepowder shots, 5. 
-
-### Can DC designers write sidekicks into their adventure?
-
-Yes. Sidekicks must be from that DC campaign's available sources, as published (no adjustments can be made and sidekicks cannot be create from scratch by the DC designer).
-
-### Does adding the property: "**Unusual Nature**. The creature doesn't require air." as suggested in Boo's Astral Menagerie count as an addition we can put below a stat block that does not change the creatures CR?
-
-You may add "Unusual Nature" without it changing the CR. 
-
-### To increase **accessibility** can we adjust the DC template or produce a new version?
-
-During your writing, editing, and pdf creation process please make your adventures more accessible for assistive technologies (screen readers, braille displays, screen magnifiers, text-to-speech, and more) and increase visual readability.
-
-1. The DC template must be one of your downloads. Adjust it to create a pdf using tags, bookmarks, alt text, and accessibility improvements that don't change anything about the formatting or appearance of the template.
-2. Additionally, as an option create a non-DC-template version; change fonts, sizing, formatting, and layout as advised by accessibility experts.
+### Are there **accessibility** resources that can be provided for creating more accessible DC versions?
 
 Resources like those compiled by community member, Kit Flowers, can help. https://www.flowerstorm.tech/tabletop-creator-resources-for-tabletop-accessibility/
 
-Do not sell your versions separately on the DMs Guild.
- 
 ### What permissions do I need for **language translations** of DDAL content?
 
 For translating Dungeoncraft adventures, collaborate with the authors and negotiate some form of compensation. The translation should be included with the original version on DMsGuild.com, not sold separately. You can translate AL guides to share privately with players. If you want to translate official AL content for distribution (guidelines, Ravenloft: Mist Hunters series, Dreams of the Red Wizards, etc) make a "Permission Request" at the Wizards of the Coast Support page (https://support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000002843). DDAL admin don't give permission.
-
-### Can designers sell only the **Roll20 version** without the DC template version?
-
-No, all DC downloads must have a DC template version, even if selling a VTT version. To do that bundle a private DC pdf and a private VTT version (FG or Roll20) so the royalties are divided correctly. I will update you if this changes.
 
 ## Premier Organizer Created Adventures Questions 
 
 ### Will the premier organizer (PO) **epics continue to be available** through the event/resource team by all communities? Will they continue to be made available on DM's Guild and/or with single-table variants? Will there be any checks and balances (e.g. price, distribution, publication timeline) on ensuring that they continue to be fairly accessible to all communities, and not just the POs?
 
-As one of the POs doing these, and we have a ton of experience on this front, I can say for the DRW storyline that we will have a public facing schedule of all adventures (normal and epics), their premiere dates, and DMG release dates out as far into the future as we can so other organizers and events can make the decisions they need to make in a timely fashion. We have no plans at this time for any content that will not be released on the DMG and I can promise all DRW content will always be released. We got ya. No worries. 
+As one of the POs doing these, and we (Baldman Games) have a ton of experience on this front, I can say for the DRW storyline that we will have a public facing schedule of all adventures (normal and epics), their premiere dates, and DMG release dates out as far into the future as we can so other organizers and events can make the decisions they need to make in a timely fashion. We have no plans at this time for any content that will not be released on the DMG and I can promise all DRW content will always be released. We got ya. No worries. 
  
 ### Are there plans to **add more POs** to the program, particularly POs outside the US?
 
@@ -407,11 +331,11 @@ Refer to the Organizer's Guide https://dnd.wizards.com/adventurers-league/dm-inf
 
 https://discord.com/channels/516367331358801950/1050208806006702081/1050208806006702081
 
-Free epics available for non-charity event organizers who request May through July (see Organizer's Guide for criteria)
+Free epics available for non-charity event organizers who put in requests, now until the next update, tentatively planned for January 1st, 2024 (see Organizer’s Guide for criteria):
 
-- DDEP 05-01 Iron Baron (T1 & T2)
-- DDEP07-01 Peril at the Port (T1 & T2)
-- DDEP06-02 Return to White Plume Mountain (T2 & T3)
+- DDEP-02 Mulmaster Undone (T1 & T2)
+- DDEP08-03 Last Orders at the Yawning Portal (T1 - T4)
+- DDEP09-01 Infernal Pursuits (T1 & T2) 
 
 ### How can I get epics for my event if I'm too **late to submit for support**?
 
@@ -461,6 +385,6 @@ No answer yet.
 
 No answer yet.
 
-### Will the new Extra Life content, "Misplaced Monsters," be allowed in AL for Dungeoncrafts?
+### Will "Misplaced Monsters" be allowed in Dungeoncrafts?
 
 No answer yet.
